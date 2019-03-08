@@ -3,7 +3,7 @@
 ```bash
 wget https://raw.githubusercontent.com/jeancsanchez/android-django-environment/master/install.sh
 ```
-2. Dar permissão de execução para o arquivo
+2. Dê permissão de execução para o arquivo
 ```bash
 sudo chmod +x install.sh
 ```
